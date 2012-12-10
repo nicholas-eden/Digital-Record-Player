@@ -1,0 +1,25 @@
+To change the song list for your purposes
+
+Add a line in the Songs container for every song in this format
+
+<song title="your song name" url="music/songname.mp3"/>
+
+You can have as many songs as you like.  You can put the songs in
+seperate folders if you like, just change the folder in the url
+attibute.
+
+
+There are two general settings, autostart and continious.
+These are in the settings container.
+
+If you want the player to start automatically then change
+autostart to "true".  If at the end of the song you want the player
+to start the next song in the list then change continious to "true"
+
+
+This is a flash 8 file and can not be saved as anything previous
+version due to the features of ActionScript being used that were
+not available in the previous versions.
+
+
+Any other questions can be sent to Nicholas.Eden@gmail.com

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<songs>
+		<song title="Upperclass War Cry" url="music/Upperclass_War_Cry_Bed_60.mp3"/>
+		<song title="Backwater Blues" url="music/Backwater_Blues_1.mp3"/>
+		<song title="Last Knight" url="music/Last_Knight_2.mp3"/>
+		<song title="Upperclass War Cry" url="music/Upperclass_War_Cry_Bed_60.mp3"/>
+		<song title="Backwater Blues" url="music/Backwater_Blues_1.mp3"/>
+		<song title="Last Knight" url="music/Last_Knight_2.mp3"/>
+</songs>
+<settings>
+		<setting continious="false"  autostart="false"/>
+</settings
